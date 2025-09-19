@@ -25,3 +25,7 @@ Six popular methods for load balancing server traffic burden to avoid Single Poi
 <hr />
 
 ## 2. <a name="supplemental">Supplemental Resources</a>
+
+* *[What is Load Balancing? (Cloudflare Article)](https://www.cloudflare.com/learning/performance/what-is-load-balancing/)*
+* *[Amazon AWS 'What is Load Balancing? Article](https://aws.amazon.com/what-is/load-balancing/)*
+* *[Wikipedia Article on Load Balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))*
