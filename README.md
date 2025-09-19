@@ -1,6 +1,6 @@
 # Intro to Load Balancing Overview Guide
 
-**TODO:** A brief introductory guide to six methods for accomplishing server load balancing. 
+**Description/Overview:** Load balancing types/techniques (each corresponding to a particular kind of load balancing algorithm) are methods utilized by networks to distribute incoming data requests (traffic) from client/host devices to servers (and, possibly, server clusters). Decision to implement a specific type is based on factors such as: the nature of the app being served, what sort of service is being offered to clients, and measurements of capacity and performance of servers.
 
 #### Table of Contents
 
